@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Manajemen Gudang",
+  "description": "Aplikasi manajemen inventaris gudang dengan pelacakan stok masuk dan keluar.",
+  "requestFramePermissions": []
+}
